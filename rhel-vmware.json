@@ -19,7 +19,7 @@
       "cpuid.coresPerSocket": 1,
       "memsize": 2048,
       "ethernet0.virtualDev": "vmxnet3",
-      "virtualHW.version": "11"
+      "virtualHW.version": "15"
     },
 
     "iso_url": "{{user `iso_url`}}",
